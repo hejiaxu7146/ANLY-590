@@ -59,6 +59,10 @@ Jiaxu He,   jh2045@georgetown.edu
 * The current data source is appropriate because it has so many users, and a lot of people rely on them. Yelp is used every day to help people choosing appropriate restaurants. Amazon reviews also helped a lot of people to take insights of the product include myself.
 
 
+* Yes, it is supervised problem. So, the input will be any text that represent a person's review for something. And the output will be the probabilities that belongs to each class ( Stars from 1 to 5), and the probabilities that the review is actually useful or not useful.
+
+
+
 ## 5. Assessment Metrics
 
 * The loss function I will use is categorical cross entroy. Because comparing with other metrics, the categorical cross entropy is more fittable for multiclass classfication where each example belongs to a single class.
@@ -84,4 +88,3 @@ Jiaxu He,   jh2045@georgetown.edu
 * The API that I am going to use are Tensorflow and Keras. While keras Supports both convolutional networks and recurrent networks, as well as combinations of the two, also Runs seamlessly on CPU and GPU. And Tensorflow for high performance numerical computation. Its flexible architecture allows easy deployment of computation across a variety of platforms (CPUs, GPUs, TPUs).
 
 
-* Yes, it is supervised problem. So, the input will be any text that represent a person's review for something. And the output will be the probabilities that belongs to each class ( Stars from 1 to 5), and the probabilities that the review is actually useful or not useful.
