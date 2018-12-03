@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  3 16:08:52 2018
-
-@author: hejia
-"""
-
 import pandas as pd
 import string
 from nltk.corpus import stopwords
