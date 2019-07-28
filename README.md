@@ -1,3 +1,3 @@
-# ANLY-590
-Master of Science
-Georgetown University Neural Networks and Deep Learning
+# Neural Networks and Deep Learning
+
+# Text Classification on Yelp and Amazon Reviews
